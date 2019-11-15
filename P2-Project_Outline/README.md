@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Choreganizer is an app to help parents organize household chores. 
+Parents can set-up and assign chore goals with due dates for each child.
+Once a chores is complete, the child can visually see their progress towards the goal with the color of a picture being filled in.
 ### Features
-Include Features here
+User Sign-in.
+User Registration.
+Goal set-up.
+Progress tracker.
 ### Technologies
-Include Technologies here
+HTML
+CSS
+Javascript?
+Java
+Spring Boot
+SQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+For this project I'll have to learn Javascript and how to animate color-fill.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/MLMbOII3/liftoff-assignment
