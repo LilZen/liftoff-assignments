@@ -11,18 +11,18 @@ Choreganizer is an app to help parents organize household chores.
 Parents can set-up and assign chore goals with due dates for each child.
 Once a chores is complete, the child can visually see their progress towards the goal with the color of a picture being filled in.
 ### Features
-User Registration / Sign-in.
-Goal set-up/add/edit/delete/checkboxes.
-Sort/search/list by user or chores.
-Visual progress tracker with color filling up photo animation.
-Visual tracking with calendar.
+* User Registration / Sign-in.
+* Goal set-up/add/edit/delete/checkboxes.
+* Sort/search/list by user or chores.
+* Visual progress tracker with color filling up photo animation.
+* Visual tracking with calendar.
 ### Technologies
-HTML
-CSS
-Javascript?
-Java
-Spring Boot
-SQL
+*HTML
+* CSS
+* Javascript?
+* Java
+* Spring Boot
+* SQL
 ### What I'll Have to Learn
 For this project I'll have to learn Javascript and how to animate color-fill.
 ### Project Tracker
