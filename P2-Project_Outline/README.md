@@ -10,18 +10,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 As a parent of two messy children I needed a way to encourage and organize their chores. 
 Choreganizer is an app to help parents organize household chores. 
 Parents can set-up and assign chore goals with due dates for each child.
-Once a chores is complete, the child can visually see their progress towards the goal with the color 
-of a picture being filled in. Users that go above set chore goal will earn a badge/reward.
+Once a chores is complete, the child can visually see a picture of their progress towards the goal 
+ and earn badges for doing extra.
 ### Features
-* User Registration / Sign-in: Registration form, submit button, data goes into database. Sign-in matching data to database.
-* The user can create Goal set-up on Edit template: User will be able to click add/edit/delete chore button in a form to edit database. 
-Drop-down of user, chore, and popup calendar. 
-Confirmation of add by "flash" or "alert" provided below form.
-* User can view data on Home template: Data displayed in checklist. 
-Users can sort list by user name, chore, and due date. 
-When chore completed, Done button to cross-of chore.
-* User can view progress on progress template: Outline of picture that fills with color as chores are completed in simple animation.
-* User will receive Badges/Rewards: Users will earn badges/awards for various ways that they go above and beyond assigned tasks.
+* Account login: User will be able to register and account through a form and submit button - data will go into a database. 
+The sign-in form will matching data to database with hashing and salting.
+* Chore assignment: The user can create chores on Edit template from dropdown menu of member and chore with pop-up calendar to set due date. 
+User will be able to click add/edit/delete chores with button in the form to change data in database. 
+Confirmation of update by "flash" or "alert" will let user know data updated form.
+* Chore list view: User can view data on Home template with data displayed in checklist. 
+Users can sort list by user name, chore, and due date with option at top of checklist. 
+When chore completed, Done button will allow user to cross-of chore.
+* Progress view: User can view on progress template with picture that fills with color as chores are completed in simple animation.
+Picture will be fully colored when goals are complete.
+* User will earn/receive Badges/Rewards: Users will earn badges/awards for various ways that they go above and beyond assigned tasks.
+Badges will be black and white with description. Once badge is earned, it will be colored.
 ### Technologies
 * HTML
 * CSS
@@ -30,5 +33,6 @@ When chore completed, Done button to cross-of chore.
 * SQL
 ### What I'll Have to Learn
 For this project I will learn how to implement color-filling of a picture outline. I will research how to use different users access levels on the application.
+Creating a signed-in confirmation,salting, and hashing was something I learned for Python by not in Java, so I will have to learn this for Java. 
 ### Project Tracker
 https://trello.com/b/MLMbOII3/liftoff-assignment
