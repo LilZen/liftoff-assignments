@@ -7,18 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
+As a parent of two messy children I needed a way to encourage and organize their chores. 
 Choreganizer is an app to help parents organize household chores. 
 Parents can set-up and assign chore goals with due dates for each child.
 Once a chores is complete, the child can visually see their progress towards the goal with the color 
 of a picture being filled in. Users that go above set chore goal will earn a badge/reward.
 ### Features
-* User Registration / Sign-in: Users will access the app by registering an account and signing-in.
-* Goal set-up: Parent users will be able to add/edit/delete chores for both parent and child users. 
-All users of an account will have checkboxes to track goal completion.
-* User organization: Users can sort by user name, chore, and due date.
-* Visual progress tracker: Parent users can view and track chore completing with charts. 
-Child users will be able to visually see progress with color filling up photo outline when chore is completed.
-* Badges/Rewards: Users will earn badges/awards for various ways that they go above and beyond assigned tasks.
+* User Registration / Sign-in: Registration form, submit button, data goes into database. Sign-in matching data to database.
+* The user can create Goal set-up on Edit template: User will be able to click add/edit/delete chore button in a form to edit database. 
+Drop-down of user, chore, and popup calendar. 
+Confirmation of add by "flash" or "alert" provided below form.
+* User can view data on Home template: Data displayed in checklist. 
+Users can sort list by user name, chore, and due date. 
+When chore completed, Done button to cross-of chore.
+* User can view progress on progress template: Outline of picture that fills with color as chores are completed in simple animation.
+* User will receive Badges/Rewards: Users will earn badges/awards for various ways that they go above and beyond assigned tasks.
 ### Technologies
 * HTML
 * CSS
@@ -26,7 +29,6 @@ Child users will be able to visually see progress with color filling up photo ou
 * Spring Boot
 * SQL
 ### What I'll Have to Learn
-For this project I'll have to learn how to animate the color-fill of the photograph and creating charts. Additionally,
-how to have different users access levels for the same account.
+For this project I will learn how to implement color-filling of a picture outline. I will research how to use different users access levels on the application.
 ### Project Tracker
 https://trello.com/b/MLMbOII3/liftoff-assignment
